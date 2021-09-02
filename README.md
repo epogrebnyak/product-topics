@@ -56,11 +56,12 @@
 
   - [@shreyas definition](https://twitter.com/shreyas/status/1303150374124048386)
 
-  > Define the product & coordinate actions across the org to enable its success.
+  > "Define the product & coordinate actions across the org to enable its success."
 
-  - longer presentation (video):
-
-  > (...)
+  - longer presentation by Rohan Katyal @rohankatyal29:
+  
+    - https://www.youtube.com/watch?v=any_5L1S-f4&t=266s
+    - https://twitter.com/rohankatyal29/status/1416059586574905349?s=20
 
 ### 2.4. What are PM competences and skills?
 
@@ -104,7 +105,13 @@ By process:
 
 - [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
 
-
+- Agile methodologies:
+  - The Project Management Blueprint Part
+  - [The Agile Manifesto](https://nitrix-reloaded.com/publicdocs/The_Agile_Manifesto_SDMagazine.pdf) 
+  - [State of Agile report](https://stateofagile.com/#ufh-i-661275008-15th-state-of-agile-report/7027494)
+  - [SCRUM](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Russian.pdf)
+  - SAFe/LeSS (don't)
+  
 ## 4. Minicases 
 
   - [What might we infer about this team?](https://twitter.com/johncutlefish/status/1433294005589053444?s=20)
@@ -162,7 +169,7 @@ Twitter
 
 - @johncutlefish
 - @jeffpatton
-
+- [Marty Cagan](https://twitter.com/cagan)
 Books
 -----
 
