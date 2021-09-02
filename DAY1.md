@@ -27,4 +27,4 @@ on right or wrong direction.
 
 Ideally, there should be some prescriptive excercises on "happy paths"
 (good situations) and "sad paths" (bad situations when things go wrong).
-
+ 
