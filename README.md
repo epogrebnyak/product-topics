@@ -4,9 +4,11 @@
 - The intended audience is economics/finance students with interest in tech.
 - There is a heavy borrowing from John Cutler, with references (I'm a fan).
 
-## What is product?
+[Presenation draft]()
 
-### 1. Life before products 
+## 1. What is product?
+
+### 1.1 Life before products 
 
   - Niel McElroy (1931) and birth of brand-centered FMCG
   - Microsoft Excel before program managers
@@ -16,51 +18,55 @@
   - What changed? What were the drivers and conditions for products to emerge?
   - What are product expectiations from the company and user perspective?
 
-### 2. What is a product? (short video)
+### 1.2. What is a product? (short video)
 
   - [John Culter vimeo video (2017)](https://vimeo.com/248503272)
 
-### 3. How is product created? What is a typical product pipeline?
+### 1.3. How is product created? What is a typical product pipeline?
 
+```
+
+  Idea -> Usecase -> Features -> Implementation -> Release -> Success
+
+```
   - Is there a simple reference workflow for product development?
-
-```
-
-  Idea -> Usecase -> Specification and Design -> Implementation -> Release -> Success
-
-```
-
   - Is this workflow above good (spoiler: no)?
   - Can this workflow be modified?
  
-## PM role and skills
+## 2. Product manager (PM) role and skills
 
-### 4. What are the job requirements for product managers?
+### 2.1. What are the job requirements for product managers?
 
-   Excercise: use job ads (Linkedin, HH.ru) to list:
+  Excercise: use job ads (Linkedin, HH.ru) to list:
 
-   - key job responsibilities for PM 
-   - PM candidate requirements
+    - key job responsibilities for PM 
+    - PM candidate requirements
 
-   Extra questions:
+  Extra questions:
 
-   - What are core resposibilities and requirements and what the extras? 
-   - How do FAANG PM jobs differ from smaller companies, based on job ads?
-   - Are non-IT products different, based on job ads?
+    - What are core resposibilities and requirements and what the extras? 
+    - How do FAANG PM jobs differ from smaller companies, based on job ads?
+    - Are non-IT products different, based on job ads? 
 
-### 5. Why PM is really a hard job?
+### 2.2. Why PM is really a hard job?
 
    - [John Cutler. 15 things you should know about product managers](https://medium.com/@johnpcutler/15-things-you-should-know-about-product-managers-f488513d246)
 
-### 6. What does PM do? (short)
+### 2.3. What does PM do? (short)
 
-  - @shreyas definition
-  - longer presentation (video)
+  - [@shreyas definition](https://twitter.com/shreyas/status/1303150374124048386)
 
-### 7. What are PM competences and skills?
+  > Define the product & coordinate actions across the org to enable its success.
+
+  - longer presentation (video):
+
+  > (...)
+
+### 2.4. What are PM competences and skills?
 
   - Competence model 1: [@shreyas](https://twitter.com/shreyas/status/1282690821335027713?s=20)
-  - [12 things by John Culter](https://medium.com/@johnpcutler/12-core-competencies-for-product-managers-8d5744f91bd)
+  - [12 core competences by John Culter](https://medium.com/@johnpcutler/12-core-competencies-for-product-managers-8d5744f91bd)
+  - [GitLab PM competences](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
 
   In Russian:
 
@@ -73,9 +79,11 @@
              what is most useful for a product management job, 
              based on your experience.
 
-### 8. How to develop these skills?
+### 2.5. How to develop the PM skills?
 
-## What can help a PM
+- [Carrer Advice (reddit)](https://www.reddit.com/r/ProductManagement/comments/p14pzi/9_lessons_from_my_10_years_working_in_product/)
+
+## 3. Tools and frameworks
 
 By domain:
 
@@ -85,12 +93,19 @@ By domain:
 
 By process:
 
-- communication
-- organising things
+- Communication
+- Organising things
 
-## Minicases 
 
-### 9. Minicases:
+- User story mapping:
+  - [video](https://vimeo.com/250045854), 
+  - [author](https://twitter.com/jeffpatton)
+  - [book](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
+
+- [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
+
+
+## 4. Minicases 
 
   - [What might we infer about this team?](https://twitter.com/johncutlefish/status/1433294005589053444?s=20)
 
@@ -108,6 +123,7 @@ By process:
 - Frameworks (eg North Star)
 - Product strategy
 - Does the company enable products at all?
+
 
 3 pillars of product
 --------------------
@@ -136,11 +152,16 @@ Links
 - https://www.mindtheproduct.com/history-evolution-product-management/
 - blog: beautiful mess on github
 
+Company
+-------
+
+- [GitLab - competencies](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
+
 Twitter
 -------
 
 - @johncutlefish
-- 
+- @jeffpatton
 
 Books
 -----
