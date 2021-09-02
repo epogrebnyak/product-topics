@@ -4,7 +4,7 @@
 - The intended audience is economics/finance students with interest in tech.
 - There is a heavy borrowing from John Cutler, with references (I'm a fan).
 
-[Presenation draft]()
+[Presenation draft](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
 
 ## 1. What is product?
 
@@ -27,6 +27,7 @@
 ```
 
   Idea -> Usecase -> Features -> Implementation -> Release -> Success
+         (-------- PRD --------)     
 
 ```
   - Is there a simple reference workflow for product development?
@@ -84,7 +85,17 @@
 
 - [Carrer Advice (reddit)](https://www.reddit.com/r/ProductManagement/comments/p14pzi/9_lessons_from_my_10_years_working_in_product/)
 
-## 3. Tools and frameworks
+- [From Good to Great PM](https://twitter.com/shreyas/status/1249039638829793280)
+
+## 3. Teams and workflow
+
+  - Team responsibilities, learning, iterations
+  
+  For discussion: 
+
+  - [What might we infer about this team?](https://twitter.com/johncutlefish/status/1433294005589053444?s=20)
+
+## 4. Tools and frameworks
 
 By domain:
 
@@ -97,25 +108,25 @@ By process:
 - Communication
 - Organising things
 
+### User story mapping
 
-- User story mapping:
   - [video](https://vimeo.com/250045854), 
   - [author](https://twitter.com/jeffpatton)
   - [book](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
 
-- [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
+### [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
 
-- Agile methodologies:
+### Agile methodologies
   - The Project Management Blueprint Part
   - [The Agile Manifesto](https://nitrix-reloaded.com/publicdocs/The_Agile_Manifesto_SDMagazine.pdf) 
   - [State of Agile report](https://stateofagile.com/#ufh-i-661275008-15th-state-of-agile-report/7027494)
   - [SCRUM](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Russian.pdf)
   - SAFe/LeSS (don't)
   
-## 4. Minicases 
+## 5. Product cases
 
-  - [What might we infer about this team?](https://twitter.com/johncutlefish/status/1433294005589053444?s=20)
-
+  - Failed products - what went wrong?
+  - How are best product made?
     
 ## More topics
 
@@ -124,9 +135,6 @@ By process:
 - B2C vs B2G vs B2B 
 - Success metrics
 - Use of data
-- Failed products - what went wrong?
-- How are best product made?
-- Teams: team responsibilities, learning, iterations
 - Frameworks (eg North Star)
 - Product strategy
 - Does the company enable products at all?
@@ -159,21 +167,11 @@ Links
 - https://www.mindtheproduct.com/history-evolution-product-management/
 - blog: beautiful mess on github
 
-Company
--------
-
-- [GitLab - competencies](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
-
-Twitter
--------
-
-- @johncutlefish
-- @jeffpatton
-- [Marty Cagan](https://twitter.com/cagan)
 Books
 -----
 
 - Inspired
+- Lean Startup: [video](https://www.youtube.com/watch?v=fEvKo90qBns)
 
 Criticism
 ---------
@@ -184,8 +182,8 @@ Criticism
 Notes
 -----
 
-- `Product -> Work Pipeline -> PM -> Teams -> Cases`
+- `Product -> Work Pipeline -> PM -> Teams -> ...`
 - `User - Business - Technology`
+- `UX - Development - Business`
 - Beyond the obvious (eg product strategy)
-- Topics and ideas that do not fit
 - What can a class guest contribute? 
