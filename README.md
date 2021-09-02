@@ -1,10 +1,7 @@
 # Topics in product management
 
-This document is a draft for lecture or seminar series on Product Management.
-The intended audience is economics/finance students with interest in tech.
-
-Notes:
-
+- This document is a draft for lecture or seminar series on Product Management.
+- The intended audience is economics/finance students with interest in tech.
 - There is a heavy borrowing from John Cutler, with references (I'm a fan).
 
 ## What is product?
