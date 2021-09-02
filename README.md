@@ -165,7 +165,9 @@ Links
 -----
 
 - https://www.mindtheproduct.com/history-evolution-product-management/
-- blog: beautiful mess on github
+- beautiful mess on github
+- cusdev The Four Steps to the Epiphany - https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies-dp-1119690358/dp/1119690358/ref=dp_ob_title_bk?asin=1119690358&revisionId=&format=4&depth=1
+- https://twitter.com/kennethn/status/1392534332376444930
 
 Books
 -----
