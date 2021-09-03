@@ -149,7 +149,7 @@ By process:
 
 ### [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
 
-    Often mentioned: RICE
+Often mentioned: RICE
 
 ### Agile methodologies
 
