@@ -1,8 +1,12 @@
 # Topics in product management
 
 - This document is a draft for lecture or seminar series on Product Management.
-- The intended audience is economics/finance students with interest in tech.
-- There is a heavy borrowing from John Cutler, with references (I'm a fan).
+- There is a heavy borrowing from John Cutler, with references.
+
+Audience: 
+
+- economics/finance students with interest in tech
+- junior people in tech with a bit of imposter syndrome
 
 [Presenation draft](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
 
@@ -18,11 +22,24 @@
   - What changed? What were the drivers and conditions for products to emerge?
   - What are product expectiations from the company and user perspective?
 
-### 1.2. What is a product? (short video)
+  Reading:
+
+  - https://www.mindtheproduct.com/history-evolution-product-management/
+
+### 1.2. Product universe
+
+  Excercise: provide examples of products, including:
+  - FMCG
+  - physical products
+  - failed products
+  - internal products
+  - unexpected productisation
+ 
+### 1.3. What is a product? (short video)
 
   - [John Culter vimeo video (2017)](https://vimeo.com/248503272)
 
-### 1.3. How is product created? What is a typical product pipeline?
+### 1.4. How is product created? What is a typical product pipeline?
 
 ```
 
@@ -72,8 +89,10 @@
 
   In Russian:
 
-  - Competence model 2 (FRII)
-  - Competence model 3 (Russian official teaching standards)
+  - Competence model 2 - [ФРИИ](https://s3.skills.iidf.ru/skills-production-storage/posters/IIDF_white_poster_print.pdf) 
+  - Competence model 3 - [Russian official teaching standards (2014)](http://fgosvo.ru/uploadfiles/profstandart/06.012.pdf)
+
+  Excercise: prioritize core and additional competences 
 
   Excercise: link competences to project pipeline
 
@@ -105,8 +124,8 @@ By domain:
 
 By process:
 
-- Communication
-- Organising things
+- Communication and collaboration
+- Workflow and project management
 
 ### User story mapping
 
@@ -117,76 +136,67 @@ By process:
 
 ### [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
 
+    Often mentioned: RICE
+
 ### Agile methodologies
-  - The Project Management Blueprint Part
+
+  - The Project Management Blueprint Part I and II (toptal)
   - [The Agile Manifesto](https://nitrix-reloaded.com/publicdocs/The_Agile_Manifesto_SDMagazine.pdf) 
-  - [State of Agile report](https://stateofagile.com/#ufh-i-661275008-15th-state-of-agile-report/7027494)
   - [SCRUM](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Russian.pdf)
-  - SAFe/LeSS (don't)
+  - Agile at scale: SAFe/LeSS
+  - Kanban 
+  - [State of Agile report](https://stateofagile.com/#ufh-i-661275008-15th-state-of-agile-report/7027494)
   
 ## 5. Product cases
 
-  - Failed products - what went wrong?
   - How are best product made?
+  - Failed products - what went wrong?
     
 ## More topics
 
-- Waterfall vs iterations
+- B2C vs B2G vs B2B, competition, user switch rates
 - Facing the user - user stories, story points
-- B2C vs B2G vs B2B 
+- Waterfall vs iterations
 - Success metrics
 - Use of data
-- Frameworks (eg North Star)
+- Frameworks (eg North Star by Amplitude)
 - Product strategy
-- Does the company enable products at all?
+- Products in legacy organisation (no space for products or mimicing products)
 
+## 3 pillars of product
 
-3 pillars of product
---------------------
-
-- User
+- User, or UX
 - Business
 - Technology
 
-Questions:
+To discuss:
 
 - What is behind each pillar?
 - Why are not the same (eg User != Business)
 - What are competing designs of this view (different charts)
 
-Glossary
---------
+## Glossary
 
 - PM, PO, PrM
 - waterfall vs agile
 - roadmap
 - POC, MVP, pilot
+- lean, TPS
+- OKR, KPI
+- UX, UI
+- feature factory
+- epic
+- backlog
+- PRD
+- design thinking
 
-Links
------
+## Books
 
-- https://www.mindtheproduct.com/history-evolution-product-management/
-- beautiful mess on github
-- cusdev The Four Steps to the Epiphany - https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies-dp-1119690358/dp/1119690358/ref=dp_ob_title_bk?asin=1119690358&revisionId=&format=4&depth=1
-- https://twitter.com/kennethn/status/1392534332376444930
-
-Books
------
+Foundational:
 
 - Inspired
 - Lean Startup: [video](https://www.youtube.com/watch?v=fEvKo90qBns)
 
-Criticism
----------
+Specialised:
 
-- Should we give exact frameworks to work on product?
-- Should we work on some product in class?
-
-Notes
------
-
-- `Product -> Work Pipeline -> PM -> Teams -> ...`
-- `User - Business - Technology`
-- `UX - Development - Business`
-- Beyond the obvious (eg product strategy)
-- What can a class guest contribute? 
+- cusdev: [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies-dp-1119690358/dp/1119690358/ref=dp_ob_title_bk?asin=1119690358&revisionId=&format=4&depth=1)

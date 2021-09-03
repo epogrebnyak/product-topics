@@ -1,8 +1,10 @@
 # Twitter
 
 - [John Cutler](https://twitter.com/johncutlefish)
+- https://twitter.com/shreyas
 
 ## Classic book authors
 
-- [jeffpatton](https://twitter.com/jeffpatton)
 - [Marty Cagan](https://twitter.com/cagan)
+- [Jeff Patton](https://twitter.com/jeffpatton)
+- Eric Ries
