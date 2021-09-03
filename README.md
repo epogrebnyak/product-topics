@@ -12,9 +12,9 @@ Audience:
 - economics/finance graduate students with interest in tech
 - junior people in tech with a bit of imposter syndrome
 
-Open questions:
+Current work:
 
-  - refining the outline (this file)
+  - refining the lecture series outline (this file)
   - adding practical excercises, cases and in-class simulations from real PM's (see [DAY1.md](DAY1.md)) 
 
 
