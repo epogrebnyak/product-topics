@@ -14,8 +14,8 @@ Audience:
 
 Open questions:
 
-  - refining the basis material (this file)
-  - practical excercises and cases from real PM's 
+  - refining the outline (this file)
+  - adding practical excercises, cases and in-class simulations from real PM's (see [DAY1.md](DAY1.md)) 
 
 
 [Presenation draft](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
