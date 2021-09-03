@@ -1,12 +1,22 @@
 # Topics in product management
 
+(C) 2021, Evgeniy Pogrebnyak
+
+About:
+
 - This document is a draft for lecture or seminar series on Product Management.
-- There is a heavy borrowing from John Cutler, with references.
+- A lot of inspiration for the course ideas comes from reading John Cutler on Twitter, I cite him a lot with references.
 
 Audience: 
 
-- economics/finance students with interest in tech
+- economics/finance graduate students with interest in tech
 - junior people in tech with a bit of imposter syndrome
+
+Open questions:
+
+  - refining the basis material (this file)
+  - practical excercises and cases from real PM's 
+
 
 [Presenation draft](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
 
@@ -29,11 +39,14 @@ Audience:
 ### 1.2. Product universe
 
   Excercise: provide examples of products, including:
+  
   - FMCG
   - physical products
   - failed products
   - internal products
   - unexpected productisation
+  - products within big companies
+  - company=product
  
 ### 1.3. What is a product? (short video)
 
@@ -48,7 +61,7 @@ Audience:
 
 ```
   - Is there a simple reference workflow for product development?
-  - Is this workflow above good (spoiler: no)?
+  - Is this workflow above good? (spoiler: no)
   - Can this workflow be modified?
  
 ## 2. Product manager (PM) role and skills
@@ -199,4 +212,4 @@ Foundational:
 
 Specialised:
 
-- cusdev: [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies-dp-1119690358/dp/1119690358/ref=dp_ob_title_bk?asin=1119690358&revisionId=&format=4&depth=1)
+- customer development: [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies-dp-1119690358/dp/1119690358/ref=dp_ob_title_bk?asin=1119690358&revisionId=&format=4&depth=1)
