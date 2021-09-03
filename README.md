@@ -142,14 +142,14 @@ By process:
 
 ### User story mapping
 
-  - [video](https://vimeo.com/250045854), 
-  - [author](https://twitter.com/jeffpatton)
-  - [book](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
-  - see also customer journey, event storming
+ - [video](https://vimeo.com/250045854), 
+ - [author](https://twitter.com/jeffpatton)
+ - [book](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
+ - see also customer journey, event storming
 
 ### [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
 
-Often mentioned: RICE
+    Often mentioned: RICE
 
 ### Agile methodologies
 
