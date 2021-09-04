@@ -1,7 +1,7 @@
 Julio Oliveira
 --------------
 
-Small questions for a team building a loan calculator.
+Small questions for a team building a loan calculator (2-3h).
 
 Kristof Pongracz
 ----------------
