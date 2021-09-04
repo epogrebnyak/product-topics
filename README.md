@@ -128,17 +128,6 @@ Excercises:
 
 ## 4. Tools and frameworks
 
-By domain:
-
-- User
-- Business
-- Technology
-
-By process:
-
-- Communication and collaboration
-- Workflow and project management
-
 ### 4.1. User story mapping
 
 - [video](https://vimeo.com/250045854), 
@@ -151,7 +140,7 @@ By process:
 - Often mentioned: RICE
 - Sounds nice: MoSCoW 
 
-### Agile methodologies
+### 4.3. Agile methodologies
 
   - The Project Management Blueprint Part I and II (toptal)
   - [The Agile Manifesto](https://nitrix-reloaded.com/publicdocs/The_Agile_Manifesto_SDMagazine.pdf) 
@@ -167,6 +156,7 @@ By process:
     
 ## More topics
 
+- product vs project management
 - B2C vs B2G vs B2B, competition, user switch rates
 - Facing the user - user stories, story points
 - Waterfall vs iterations
@@ -176,21 +166,8 @@ By process:
 - Product strategy
 - Products in legacy organisation (no space for products or mimicing products)
 
-## 3 pillars of product
-
-- User, or UX
-- Business
-- Technology
-
-To discuss:
-
-- What is behind each pillar?
-- Why are not the same (eg User != Business)
-- What are competing designs of this view (different charts)
-
 ## Glossary
 
-- product vs project management
 - PM, PO, PrM
 - waterfall vs agile
 - roadmap
@@ -206,24 +183,3 @@ To discuss:
 - PRD
 - design thinking
 - DevOps
-
-## Books
-
-### Foundational
-
-- [Marty Cagan](https://twitter.com/cagan). Inspired.
-  - book
-  - video
-
-- Eric Ries. The Lean Startup:
-  - [book](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
-  - [video](https://www.youtube.com/watch?v=fEvKo90qBns)
-
-- [Melissa Perri](https://twitter.com/lissijean). Escaping the build trap.
-  - [book](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook-dp-B07K3QBWG1/dp/B07K3QBWG1/ref=mt_other?_encoding=UTF8&me=&qid=)
-  - [video](https://vimeo.com/224453335)
-
-### By topic
-
-- Customer development: 
-  - [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies-dp-1119690358/dp/1119690358/ref=dp_ob_title_bk?asin=1119690358&revisionId=&format=4&depth=1)

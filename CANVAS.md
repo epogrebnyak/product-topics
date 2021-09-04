@@ -71,3 +71,17 @@ Interviews
   https://twitter.com/harshsinha
 
 - JC + V
+
+Processes
+---------
+
+By domain:
+
+- User
+- Business
+- Technology
+
+By process:
+
+- Communication and collaboration
+- Workflow and project management

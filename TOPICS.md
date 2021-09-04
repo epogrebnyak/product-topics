@@ -1,3 +1,16 @@
+3 pillars
+=========
+
+- User, or UX
+- Business
+- Technology
+
+To discuss:
+
+- What is behind each pillar?
+- Why are not the same (eg User != Business)
+- What are competing designs of this view
+
 Comptences
 ==========
 
@@ -9,6 +22,7 @@ In Russian:
 
 - Competence model 2 - [ФРИИ](https://s3.skills.iidf.ru/skills-production-storage/posters/IIDF_white_poster_print.pdf) 
 - Competence model 3 - [Russian official teaching standards (2014)](http://fgosvo.ru/uploadfiles/profstandart/06.012.pdf)
+
 
 
 Workflow
