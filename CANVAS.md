@@ -28,11 +28,21 @@ How companies describe their product process:
   - Gusto: link
   - Gitlab: link
   - Intercom: link
-  
+
+Not much academic literature on PM 
+----------------------------------
+
+- Software product management – An industry evaluation
+  https://www.sciencedirect.com/science/article/abs/pii/S0164121214000156?via%3Dihub
+
+- The impacts of software product management
+  https://www.sciencedirect.com/science/article/abs/pii/S0164121206002615
+
+
 From  Julio Oliveira
 --------------------
 
-Product Management
+Product Management:
 
 - Product/market-fit
 - Discovery
