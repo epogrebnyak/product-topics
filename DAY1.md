@@ -1,16 +1,41 @@
-I'm creating a course on product management for economics/finance students 
+Excercises
+==========
+
+We creating a course on product management for economics/finance students 
 interested in working in tech.
 
-We have some material about what product is and PM compentence model, 
-but would like to bring in some real life experiences through exercises
-in:
+This section contians excercises for the students to 
+
+Tentative requirements:
+
+- small, modular problems, not big complex cases (separate section of this course manual for [big cases](CASES.md))
+- a problem should relate to some part of product workflow (eg. product discovery) or to some PM competence (eg problem-solving)
+- we state a way evaluate and assess the student solution
+- learning outcome: after this excercise a student can <do something - prioritise, choose bewteen, make a decision, etc>, not "will know about"  
+
+In ideal situation there requirements should be met, but sometime you have just a good idea 
+about an excercise and in doubt about how to evaluate a student or learbing outcome - so let us 
+work on that idea too.
+
+For new products and startups:
+
+- product discovery, validating product ideas
+- specification coming up with feature list, backlog
+- MVP
+- build 
+- deploy and monitor 
+- learn and reiterate
+
+For larger companies and mature products:
 
 - user experience and user analytics
-- validating product ideas, prototyping
-- writing a product specification (a product requirements document, PRD or other form)
-- making user interfaces with desingers 
+- prototyping
+- writing a specification (product requirements document, PRD or some other form)
+- working with making user interfaces with 
 - discussing engineering with tech lead or developers
 - keeping the backlog
+
+General 
 - scheduling work, team meetings
 - keeping notes and writing
 - coming up with product success metrics, OKR/KPI 
