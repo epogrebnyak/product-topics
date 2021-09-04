@@ -75,16 +75,16 @@ Reading:
 
 ### 2.1. What are the job requirements for product managers?
 
-  Excercise: use job ads (Linkedin, HH.ru) to list:
+Excercise: use job ads (Linkedin, HH.ru) to list:
 
-    - key job responsibilities for PM 
-    - PM candidate requirements
+  - key job responsibilities for PM 
+  - PM candidate requirements
 
-  Extra questions:
+Extra questions:
 
-    - What are core resposibilities and requirements and what the extras? 
-    - How do FAANG PM jobs differ from smaller companies, based on job ads?
-    - Are non-IT products different, based on job ads? 
+  - What are core resposibilities and requirements and what the extras? 
+  - How do FAANG PM jobs differ from smaller companies, based on job ads?
+  - Are non-IT products different, based on job ads? 
 
 ### 2.2. Why PM is really a hard job?
 
