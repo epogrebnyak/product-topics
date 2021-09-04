@@ -209,14 +209,22 @@ To discuss:
 
 ## Books
 
-Foundational:
+### Foundational
 
-- Inspired
-- Lean Startup: [video](https://www.youtube.com/watch?v=fEvKo90qBns)
-- [Melissa Perri. Escaping the build trap.](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook-dp-B07K3QBWG1/dp/B07K3QBWG1/ref=mt_other?_encoding=UTF8&me=&qid=), [video](https://vimeo.com/224453335)
- 
+- [Marty Cagan](https://twitter.com/cagan). Inspired.
+  - book
+  - video
+
+- Eric Ries. The Lean Startup:
+  - book
+  - [video](https://www.youtube.com/watch?v=fEvKo90qBns)
 
 
-Specialised:
+- Melissa Perri. Escaping the build trap.
+  - [book](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook-dp-B07K3QBWG1/dp/B07K3QBWG1/ref=mt_other?_encoding=UTF8&me=&qid=)
+  - [video](https://vimeo.com/224453335)
 
-- customer development: [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies-dp-1119690358/dp/1119690358/ref=dp_ob_title_bk?asin=1119690358&revisionId=&format=4&depth=1)
+### By topic
+
+- Customer development: 
+  - [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies-dp-1119690358/dp/1119690358/ref=dp_ob_title_bk?asin=1119690358&revisionId=&format=4&depth=1)
