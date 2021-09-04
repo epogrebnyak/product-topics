@@ -18,7 +18,8 @@ Current work:
   - adding practical excercises, cases and in-class simulations from real PM's (see [DAY1.md](DAY1.md)) 
 
 
-[Presenation draft](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
+- [Presenation draft 1](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
+- ..,
 
 ## 1. What is product?
 
@@ -54,15 +55,18 @@ Current work:
 
 ### 1.4. How is product created? What is a typical product pipeline?
 
+  - Is there a simple reference workflow for product development (see comments about [Workflow](https://github.com/epogrebnyak/product-topics/blob/main/TOPICS.md#workflow))?
+ 
+```
+  Idea -> [Something in between] -> Release -> Product Success
 ```
 
-  Idea -> Usecase -> Features -> Implementation -> Release -> Success
-         (-------- PRD --------)     
+  - Is a linear workflow good? Is anything missing?
+  - What can be modified? Why does this need to be modified?
 
-```
-  - Is there a simple reference workflow for product development?
-  - Is this workflow above good? (spoiler: no)
-  - Can this workflow be modified?
+Reading:
+
+  - [Melissa Perri. Escaping the build trap (first edition - 2018)](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook-dp-B07K3QBWG1/dp/B07K3QBWG1/ref=mt_other?_encoding=UTF8&me=&qid=), [video](https://vimeo.com/224453335)
  
 ## 2. Product manager (PM) role and skills
 
@@ -209,6 +213,9 @@ Foundational:
 
 - Inspired
 - Lean Startup: [video](https://www.youtube.com/watch?v=fEvKo90qBns)
+- [Melissa Perri. Escaping the build trap.](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook-dp-B07K3QBWG1/dp/B07K3QBWG1/ref=mt_other?_encoding=UTF8&me=&qid=), [video](https://vimeo.com/224453335)
+ 
+
 
 Specialised:
 
