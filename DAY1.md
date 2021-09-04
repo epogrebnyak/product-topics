@@ -4,11 +4,11 @@ Excercises
 We creating a course on product management for economics/finance students 
 interested in working in tech.
 
-We need excercises at various topics of product management. 
+We need excercises at various topics of product management or skills of PM.
 
 Ideally, these excercises are:
 
-1. small and modular
+1. small, modular + achievable with little prior experience
 2. relate to some part of product workflow (eg. product discovery) or to some PM competence (eg problem-solving)
 3. we know how to evaluate student solution or answer
 4. we can think of a learning outcome: "after this excercise a student can \< do something - prioritise, choose bewteen, make a decision, etc \>, not "will know about"  
