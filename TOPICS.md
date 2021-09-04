@@ -1,3 +1,16 @@
+Comptences
+==========
+
+- Competence model 1: [@shreyas](https://twitter.com/shreyas/status/1282690821335027713?s=20)
+- [12 core competences by John Culter](https://medium.com/@johnpcutler/12-core-competencies-for-product-managers-8d5744f91bd)
+- [GitLab PM competences](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
+
+In Russian:
+
+- Competence model 2 - [ФРИИ](https://s3.skills.iidf.ru/skills-production-storage/posters/IIDF_white_poster_print.pdf) 
+- Competence model 3 - [Russian official teaching standards (2014)](http://fgosvo.ru/uploadfiles/profstandart/06.012.pdf)
+
+
 Workflow
 ========
 

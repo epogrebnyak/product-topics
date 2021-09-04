@@ -4,8 +4,8 @@
 
 About:
 
-- This document is a draft for lecture or seminar series on Product Management.
-- A lot of inspiration for the course ideas comes from reading John Cutler on Twitter, I cite him a lot with references.
+- This document is a draft for a lecture series on Product Management.
+- A lot of inspiration for the course ideas comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
 
 Audience: 
 
@@ -14,12 +14,15 @@ Audience:
 
 Current work:
 
-  - refining the lecture series outline (this file)
-  - adding practical excercises, cases and in-class simulations from real PM's (see [DAY1.md](DAY1.md)) 
+  - refining this file with lecture series (starting section 3 and below)
+  - adding excercises:
+    - [short excercises](DAY1.md)
+    - [cases](CASES.md) 
 
+Presentation drafts:
 
 - [Presenation draft 1](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
-- ..,
+- [Presenation draft 2](https://docs.google.com/presentation/d/1PG830YjWHu6UeFsoIvMUV5_ulr_hkfEUkyGqb3b_R-Y/edit#slide=id.ged73adcf4a_2_83)
 
 ## 1. What is product?
 
@@ -100,22 +103,14 @@ Reading:
 
 ### 2.4. What are PM competences and skills?
 
-  - Competence model 1: [@shreyas](https://twitter.com/shreyas/status/1282690821335027713?s=20)
-  - [12 core competences by John Culter](https://medium.com/@johnpcutler/12-core-competencies-for-product-managers-8d5744f91bd)
-  - [GitLab PM competences](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
+See [Topics - Competences](TOPIC.md#Competences)
 
-  In Russian:
+Excercises: 
 
-  - Competence model 2 - [ФРИИ](https://s3.skills.iidf.ru/skills-production-storage/posters/IIDF_white_poster_print.pdf) 
-  - Competence model 3 - [Russian official teaching standards (2014)](http://fgosvo.ru/uploadfiles/profstandart/06.012.pdf)
-
-  Excercise: prioritize core and additional competences 
-
-  Excercise: link competences to project pipeline
-
-  Excercise: use a selected competence model to prioritise 
-             what is most useful for a product management job, 
-             based on your experience.
+- prioritize core and additional competences for a PM
+- link competences to project pipeline
+- use a selected competence model to prioritise what is most useful for a product management job, 
+  based on your experience
 
 ### 2.5. How to develop the PM skills?
 
@@ -144,16 +139,17 @@ By process:
 - Communication and collaboration
 - Workflow and project management
 
-### User story mapping
+### 4.1. User story mapping
 
- - [video](https://vimeo.com/250045854), 
- - [author](https://twitter.com/jeffpatton)
- - [book](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
- - see also customer journey, event storming
+- [video](https://vimeo.com/250045854), 
+- [author](https://twitter.com/jeffpatton)
+- [book](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
+- see also customer journey, event storming
 
-### [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
+### 4.2.  [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
 
-    Often mentioned: RICE
+- Often mentioned: RICE
+- Sounds nice: MoSCoW 
 
 ### Agile methodologies
 
@@ -194,18 +190,22 @@ To discuss:
 
 ## Glossary
 
+- product vs project management
 - PM, PO, PrM
 - waterfall vs agile
 - roadmap
 - POC, MVP, pilot
 - lean, TPS
-- OKR, KPI
+- [OKR](https://en.wikipedia.org/wiki/OKR)
+- KPI
 - UX, UI
-- feature factory
+- feature, feature factory
 - epic
 - backlog
+- product-market fit
 - PRD
 - design thinking
+- DevOps
 
 ## Books
 
@@ -216,11 +216,10 @@ To discuss:
   - video
 
 - Eric Ries. The Lean Startup:
-  - book
+  - [book](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
   - [video](https://www.youtube.com/watch?v=fEvKo90qBns)
 
-
-- Melissa Perri. Escaping the build trap.
+- [Melissa Perri](https://twitter.com/lissijean). Escaping the build trap.
   - [book](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook-dp-B07K3QBWG1/dp/B07K3QBWG1/ref=mt_other?_encoding=UTF8&me=&qid=)
   - [video](https://vimeo.com/224453335)
 
