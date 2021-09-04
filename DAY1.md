@@ -70,3 +70,7 @@ Skill-related:
 5. Can we think of a learning outcome of the excercise? 
  - [ ] (optional)
 
+## Point of work
+
+Excercise is a text submission to this document: <https://github.com/epogrebnyak/product-topics/blob/main/SUBMISSION.md>
+
