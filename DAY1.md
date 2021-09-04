@@ -21,7 +21,7 @@ Among other things, the excercises can show "happy paths" (good situations)
 and "sad paths" (bad situations when things go wrong). One might argue that
 "sad paths" teach you more than "happy paths". 
 
-Topics for excercises are below.
+Some areas for excercises are below, but other topics are welcome.
 
 Workflow-related:
 
@@ -53,3 +53,19 @@ Skill-related:
 - keeping notes and writing
 - issues and issue tracker
 - other points of PM work
+
+## Checklist
+
+1. Is planned excercise small?
+  - [ ] whole excercise set requires no more than 30-40 min of time to achieve
+  - [ ] every individual task or step in excercise set is under 2-5 minutes 
+2. Achievable with little prior experience?
+  - [ ] would a non-PM understand what she is asked to do? 
+3. What area does the excercoise cover?
+ - [ ] [product workflow](TOPICS.md#workflow) (eg. product discovery) 
+ - [ ] PM [competence area](https://github.com/epogrebnyak/product-topics/blob/main/TOPICS.md#comptences) (eg problem-solving)
+ - [ ] something else 
+4. Do we know how to evaluate student solution or answer?
+ - [ ] notes on some unexpected outcomes of the excercise, usual mistakes (optional) 
+6. [ ] Can we think of a learnign outcome of the excercise? (optional)
+
