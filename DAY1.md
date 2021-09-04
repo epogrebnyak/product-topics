@@ -67,5 +67,5 @@ Skill-related:
  - [ ] something else 
 4. Do we know how to evaluate student solution or answer?
  - [ ] notes on some unexpected outcomes of the excercise, usual mistakes (optional) 
-6. [ ] Can we think of a learnign outcome of the excercise? (optional)
+5. [ ] Can we think of a learnign outcome of the excercise? (optional)
 
