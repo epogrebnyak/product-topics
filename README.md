@@ -168,18 +168,19 @@ Excercises:
 
 ## Glossary
 
-- PM, PO, PrM
-- waterfall vs agile
-- roadmap
-- POC, MVP, pilot
-- lean, TPS
-- [OKR](https://en.wikipedia.org/wiki/OKR)
-- KPI
-- UX, UI
-- feature, feature factory
-- epic
 - backlog
-- product-market fit
-- PRD
 - design thinking
 - DevOps
+- epic
+- feature, feature factory
+- HADI (Hypothesis, Action, Data, Impact)
+- KPI
+- lean, TPS
+- OKR [wiki](https://en.wikipedia.org/wiki/OKR)
+- PM, PO, PrM
+- POC, MVP, pilot
+- product requirements document. PRD
+- product-market fit
+- roadmap
+- UX, UI
+- waterfall vs agile
