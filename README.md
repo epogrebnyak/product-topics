@@ -14,9 +14,9 @@ Audience:
 
 Current work:
 
-  - refining this file with lecture series (starting section 3 and below)
-  - adding excercises:
-    - [short excercises](DAY1.md)
+  - refining this file with lecture series (esp section 3 and below)
+  - adding practical work:
+    - [excercises](DAY1.md)
     - [cases](CASES.md) 
 
 Presentation drafts:
