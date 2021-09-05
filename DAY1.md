@@ -67,8 +67,8 @@ Skill-related:
  - [ ] something else 
 4. Do we know how to evaluate student solution or answer?
  - [ ] notes on some unexpected outcomes of the excercise, usual mistakes (optional) 
-5. Can we think of a learning outcome of the excercise? 
- - [ ] (optional)
+5. Can we think of [a learning outcome](https://twitter.com/RobertTalbert/status/1412448702552231936) of the excercise? 
+ - [ ] list of actions that a student can undertake after excercise (optional)
 
 ## Point of work
 
