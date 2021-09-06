@@ -30,7 +30,7 @@
 С. More than one product and product long-term:
 
 6. Product portfolio and product strategy
-7. Teams in a legacy vs product organisation
+7. Product teams in a legacy vs product organisation
 
 #### Comments
 
