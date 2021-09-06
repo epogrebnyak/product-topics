@@ -14,21 +14,27 @@ Audience:
 
 Course outline:
 
+А. Introduction:
+
 1. What is a product and product history: FMCG (1930s) -> IT (2000s) -> everywhere
-2. Successful and failed products - what is not random between them?
-3. What is product manager hired for (job descriptions, performance expectations)?
-4. Simple product workflow - what happens at each stage:
+2. What is product manager hired for (job descriptions, performance expectations)?
+
+В. Product workflow:
+
+3. Simple product workflow - what happens at each stage:
     - scoping
     - delivery
     - evaluation 
-5. Why linear product workflow may fail? How to make it work?
+4. Why linear product workflow may fail? How to make it work?
+
+С. More than one product and product long-term:
+
 6. Product portfolio and product strategy
 7. Teams in a legacy vs product organisation
 
 Comments: 
 
-- 1-3 is introduction, 4 and 5 are main contents, 6 and 7 are extensions.
-- this course oultine not achieved yet - unde construction in this file below
+- this course structure not achieved yet - under construction in this file below
 - practical excercies are developed in [workbook](DAY1.md)
 - case ideas listed [here](CASES.md), to be developed
 
@@ -51,7 +57,8 @@ Presentation drafts:
 
   Reading:
 
-  - https://www.mindtheproduct.com/history-evolution-product-management/
+  - [Martin Eriksson (2015). The History and Evolution of Product Management](https://www.mindtheproduct.com/history-evolution-product-management/)
+  - [Ellen Chisa (2014). Evolution of the Product Manager.](https://queue.acm.org/detail.cfm?id=2683579)
 
 ### 1.2. Product universe
 
@@ -59,6 +66,7 @@ Presentation drafts:
   
   - FMCG
   - physical products
+  - mixed products 
   - failed products
   - internal products
   - unexpected productisation
@@ -90,14 +98,14 @@ Reading:
 
 Excercise: use job ads (Linkedin, HH.ru) to list:
 
-  - key job responsibilities for PM 
-  - PM candidate requirements
+- key job responsibilities for PM 
+- PM candidate requirements
 
 Extra questions:
 
-  - What are core resposibilities and requirements and what the extras? 
-  - How do FAANG PM jobs differ from smaller companies, based on job ads?
-  - Are non-IT products different, based on job ads? 
+- What are core resposibilities and requirements and what the extras? 
+- How do FAANG PM jobs differ from smaller companies, based on job ads?
+- Are non-IT products different, based on job ads? 
 
 ### 2.2. Why PM is really a hard job?
 
@@ -121,9 +129,8 @@ See [Topics - Competences](TOPIC.md#Competences)
 Excercises: 
 
 - prioritize core and additional competences for a PM
-- link competences to project pipeline
-- use a selected competence model to prioritise what is most useful for a product management job, 
-  based on your experience
+- link competences to product workflow
+- use a selected competence model to prioritise what is more useful for a product management job, based on your experience or relevant to you personally.
 
 ### 2.5. How to develop the PM skills?
 
@@ -131,29 +138,28 @@ Excercises:
 
 - [From Good to Great PM](https://twitter.com/shreyas/status/1249039638829793280)
 
-## 3. Teams and workflow
 
-  - Team responsibilities, learning, iterations
-  
-  For discussion: 
+## 3. Simple view of product workflow
 
-  - [What might we infer about this team?](https://twitter.com/johncutlefish/status/1433294005589053444?s=20)
+- scoping
+- delivery
+- evaluation 
 
-## 4. Tools and frameworks
+### Coming up with a new product (scoping)
 
-### 4.1. User story mapping
+### User story mapping (scoping)
 
 - [video](https://vimeo.com/250045854), 
 - [author](https://twitter.com/jeffpatton)
 - [book](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
 - see also customer journey, event storming
 
-### 4.2.  [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779)
+### [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779) (scoping/delivery)
 
 - Often mentioned: RICE
 - Sounds nice: MoSCoW 
 
-### 4.3. Agile methodologies
+### Agile methodologies (delivery)
 
   - The Project Management Blueprint Part I and II (toptal)
   - [The Agile Manifesto](https://nitrix-reloaded.com/publicdocs/The_Agile_Manifesto_SDMagazine.pdf) 
@@ -166,7 +172,16 @@ Excercises:
 
   - How are best product made?
   - Failed products - what went wrong?
-    
+  
+## 6. Teams and workflow
+
+  - Team responsibilities, learning, iterations
+  
+  For discussion: 
+
+  - [What might we infer about this team?](https://twitter.com/johncutlefish/status/1433294005589053444?s=20)
+  
+  
 ## More topics
 
 - product vs project management
