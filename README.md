@@ -4,20 +4,33 @@
 
 About:
 
-- This document is a draft for a lecture series on Product Management.
+- This document is a draft for a course on Product Management.
 - A lot of inspiration for the course ideas comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
 
 Audience: 
 
-- economics/finance graduate students with interest in tech
-- junior people in tech with a bit of imposter syndrome
+- Economics/finance graduate students with interest in tech sector.
+- Junior people in tech with a bit of imposter syndrome.
 
-Current work:
+Course outline:
 
-  - refining this file with lecture series (esp section 3 and below)
-  - adding practical work:
-    - [excercises](DAY1.md)
-    - [cases](CASES.md) 
+1. What is a product and product history: FMCG (1930s) -> IT (2000s) -> everywhere
+2. Successful and failed products - what is not random between them?
+3. What is product manager hired for (job descriptions, performance expectations)?
+4. Simple product workflow - what happens at each stage:
+  - scoping
+  - delivery
+  - evaluation 
+5. Why linear product workflow may fail? How to make it work?
+6. Product portfolio and product strategy
+7. Teams in a legacy vs product organisation
+
+Comments: 
+
+- 1-3 is introduction, 4 and 5 are main contents, 6 and 7 are extensions.
+- this course oultine not achieved yet - unde construction in this file below
+- practical excercies are developed in [workbook](DAY1.md)
+- case ideas listed [here](CASES.md), to be developed
 
 Presentation drafts:
 
