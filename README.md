@@ -2,17 +2,17 @@
 
 (C) 2021, Evgeniy Pogrebnyak
 
-About:
+#### About
 
 - This document is a draft for a course on Product Management.
 - A lot of inspiration for the course ideas comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
 
-Audience: 
+#### Audience
 
 - Economics/finance graduate students with interest in tech sector.
 - Junior people in tech with a bit of imposter syndrome.
 
-Course outline:
+#### Course outline
 
 А. Introduction:
 
@@ -32,13 +32,13 @@ Course outline:
 6. Product portfolio and product strategy
 7. Teams in a legacy vs product organisation
 
-Comments: 
+#### Comments
 
 - this course structure not achieved yet - under construction in this file below
 - practical excercies are developed in [workbook](DAY1.md)
 - case ideas listed [here](CASES.md), to be developed
 
-Presentation drafts:
+#### Presentation drafts
 
 - [Presenation draft 1](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
 - [Presenation draft 2](https://docs.google.com/presentation/d/1PG830YjWHu6UeFsoIvMUV5_ulr_hkfEUkyGqb3b_R-Y/edit#slide=id.ged73adcf4a_2_83)
