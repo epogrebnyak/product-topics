@@ -18,9 +18,9 @@ Course outline:
 2. Successful and failed products - what is not random between them?
 3. What is product manager hired for (job descriptions, performance expectations)?
 4. Simple product workflow - what happens at each stage:
-  - scoping
-  - delivery
-  - evaluation 
+    - scoping
+    - delivery
+    - evaluation 
 5. Why linear product workflow may fail? How to make it work?
 6. Product portfolio and product strategy
 7. Teams in a legacy vs product organisation
