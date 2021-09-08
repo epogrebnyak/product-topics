@@ -17,9 +17,9 @@
 1. What is a product and product history
 2. Job market - what is product manager (PM) hired for
 3. Simplified product pipeline 
-  - scoping
-  - delivery
-  - evaluation
+    - scoping
+    - delivery
+    - evaluation
 4. Advanced product pipeline 
 5. Product teams in an organisation 
 6. Product portfolio and product strategy
