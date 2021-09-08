@@ -10,7 +10,7 @@
   - junior people in tech with a bit of imposter syndrome.
 - A lot of inspiration comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
 
-### Course outline
+### Course outline (short)
 
 <!--
 1. What is a product and product history
@@ -26,31 +26,16 @@
 
 #### 1. What is a product and product history [DONE]
 
-<details>
-<summary>Details and takeaways</summary>
+  - product is customer pain or value to the customer
+  - software engineering not quite comfortable with definition
+  - pressures to change the legacy workflow in software engineering
 
-Takeaways:
-
-   - product is customer pain and software engineering does not like this defintion  
-</details>
-    
 #### 2. Job market - what is product manager (PM) hired for
 
-<details>
-<summary>Details and takeaways</summary>
-
-   - job descriptions  
-   - PM competences and skills
-   - PM performance expectations
-
-Takeaways:
-   
-   - PM has to do a lot, the pressure comes from organisation's target innovate at shorter cycles
-   - PM is not a project manager
-
-</details>
-    
-
+   - let's have a look at FAANG PM job descriptions  
+   - PM skillst is overwhelming - why so?
+   - PM is not a project manager, although cases vary
+ 
 #### 3. Simplified product workflow
 
  - Scoping (define what a new product will be or how to refine existing product)
@@ -59,25 +44,24 @@ Takeaways:
 
 <details>
 <summary>Takeaways</summary>
-
+<br>
+  
 - product scoping may miss a product, none of frameworks guarantees a product
 - agile is just an iterative delivery method
 - evaluation steers next steps, better if designed at scoping
 - teams may have different configuation to work on a product
-
+ 
 </details>
-
-    
+   
 #### 4. Advanced product workflow 
 
+ - the "build trap" and  "death cylce" of linear prodcut workflow 
+ - cool, but how to make it wok otherwise?
+
 <details>
-<summary>Details and takeaways</summary>
-
- - Why linear product workflow may fail ("build trap" / "death cylce") 
- - Advanced workflow - how to make product that really works?
-
-Takeaways:
-
+<summary>Details</summary>
+<br>
+  
 - market matters (if customers do not go away, no need for product at all)
 - product alone does not make $1bn company, some $1bn companies are build around mediocre products
 - many companies could not forecast what their product would be at start
@@ -88,25 +72,13 @@ Takeaways:
     
 #### 5. Product teams in organisation
 
-<details>
-<summary>Details</summary>
-
-  - legacy organisations vs product enterprise
-  - lean startups
-
-</details>
-
+ - "How is this team doing?" - cases in team topology and workflow (John Cutler)
+ - legacy organisations vs product enterprise vs lean startups
     
 #### 6. Product portfolio and product strategy
 
-<details>
-<summary>Details</summary>
-
-
-  - how comapny chooses between several products
+  - how company chooses between several products
   - what is product startegy
-
-</details>
 
 ## 1. What is product?
 
