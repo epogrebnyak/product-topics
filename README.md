@@ -5,12 +5,10 @@
 ### About
 
 - This document is a draft for a course on Product Management.
-- A lot of inspiration for the course ideas comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
-
-### Audience
-
-- Economics/finance graduate students with interest in tech sector.
-- Junior people in tech with a bit of imposter syndrome.
+- Our audience is: 
+  - economics/finance graduate students with interest in tech sector;
+  - junior people in tech with a bit of imposter syndrome.
+- A lot of inspiration comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
 
 ### Course outline
 
