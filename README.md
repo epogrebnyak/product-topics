@@ -26,23 +26,30 @@
 
 #### 1. What is a product and product history [DONE]
 
-   - in FMCG as consumer brands (1930s) 
-   - in IT (around 2000s)
+<details>
+<summary>Details and takeaways</summary>
 
 Takeaways:
 
    - product is customer pain and software engineering does not like this defintion  
+</details>
+    
+#### 2. Job market - what is product manager (PM) hired for
 
-#### 2. What is product manager (PM) hired for 
+<details>
+<summary>Details and takeaways</summary>
 
    - job descriptions  
-   - performance expectations
    - PM competences and skills
+   - PM performance expectations
 
 Takeaways:
    
    - PM has to do a lot, the pressure comes from organisation's target innovate at shorter cycles
    - PM is not a project manager
+
+</details>
+    
 
 #### 3. Simplified product workflow
 
