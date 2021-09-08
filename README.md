@@ -2,6 +2,12 @@
 
 (C) 2021, Evgeniy Pogrebnyak
 
+- About
+- Self-study
+- Outline
+- Lecture content
+- Glossary
+
 ### About
 
 - This document is a draft for a course on Product Management.
@@ -24,7 +30,7 @@ In lieu of the course you can:
   - read good Twitter threads on PM
   - check out alternative course providers (eg reforge), when you're identified your skill gaps
 
-### Course outline (short)
+### Outline
 
 <!--
 1. What is a product and product history
