@@ -9,7 +9,20 @@
   - economics/finance graduate students with interest in tech sector;
   - junior people in tech with a bit of imposter syndrome.
 - A lot of inspiration comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
-- See short and longer course outline below and [workbook](DAY1.md).
+- Acting product managers contributed to concept of this course and [excercise workbook](DAY1.md).
+- See short and longer course outline is below.
+
+### Self-study 
+
+In lieu of the course you can:
+
+  - read 3 books to get started: Inspired, Build Trap and Lean Startup (or watch the author videos)
+  - dig in product workflow parts, using scoping-delivery-evaluation framework
+  - test what works and what not under different contexts
+  - see what a company does to manage products - is there a room for PM to work?
+  - try our excercises
+  - read good Twitter threads on PM
+  - check out alternative course providers (eg reforge), when you're identified your skill gaps
 
 ### Course outline (short)
 
@@ -300,3 +313,4 @@ Check if a topic found a place in an outline:
 - waterfall vs agile
 - SaSS
 - retention, ecommerce metrics 
+
