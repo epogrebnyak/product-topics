@@ -2,46 +2,64 @@
 
 (C) 2021, Evgeniy Pogrebnyak
 
-#### About
+### About
 
 - This document is a draft for a course on Product Management.
 - A lot of inspiration for the course ideas comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
 
-#### Audience
+### Audience
 
 - Economics/finance graduate students with interest in tech sector.
 - Junior people in tech with a bit of imposter syndrome.
 
-#### Course outline
+### Course outline
 
-А. Introduction:
+#### 1. What is a product and product history
 
-1. What is a product and product history: FMCG (1930s) -> IT (2000s) -> everywhere
-2. What is product manager hired for (job descriptions, performance expectations)?
+   - in FMCG as consumer brands (1930s) 
+   - in IT (around 2000s)
 
-В. Product workflow:
+Takaway:
 
-3. Simple product workflow - what happens at each stage:
-    - scoping
-    - delivery
-    - evaluation 
-4. Why linear product workflow may fail? How to make it work?
+   - product is customer pain and software engineering does not like this defintion  
 
-С. More than one product and product long-term:
+#### 2. What is product manager (PM) hired for
 
-6. Product portfolio and product strategy
-7. Product teams in a legacy vs product organisation
+   - job descriptions  
+   - performance expectations
+   - PM competences and skills
 
-#### Comments
+Takaway:
+   
+   - PM has to do a lot, the pressure comes from organisation's target innovate at shorter cycles
+   - PM is not a project manager
 
-- this course structure not achieved yet - under construction in this file below
-- practical excercies are developed in [workbook](DAY1.md)
-- case ideas listed [here](CASES.md), to be developed
+#### 3. Product workflow - linear
 
-#### Presentation drafts
+ - Scoping (define what a new product will be or how to refine existing product)
+ - Delivery (make MVP or add new functionality)
+ - Evaluation (see it works work, what we learned, decide what to do next)
 
-- [Presenation draft 1](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
-- [Presenation draft 2](https://docs.google.com/presentation/d/1PG830YjWHu6UeFsoIvMUV5_ulr_hkfEUkyGqb3b_R-Y/edit#slide=id.ged73adcf4a_2_83)
+#### 4. Product workflow - advanced
+
+ - Why linear product workflow may fail ("build trap" / "death cylce") 
+ - Advanced workflow - how to make product that really works?
+
+#### 5. Product portfolio and product strategy
+
+#### 6. Product teams in organisation
+ 
+  - legacy organisations vs product enterprise
+  - lean startups
+
+### Points of work
+
+1. lecture series developed in this file (EP)
+2. presentation drafts (EP):
+    - [Presenation draft 1](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
+    - [Presenation draft 2](https://docs.google.com/presentation/d/1PG830YjWHu6UeFsoIvMUV5_ulr_hkfEUkyGqb3b_R-Y/edit#slide=id.ged73adcf4a_2_83)
+3. practical excercies are developed in [workbook](DAY1.md) by Kristof and Julio
+4. larger cases listed [here](CASES.md)
 
 ## 1. What is product?
 
@@ -212,3 +230,5 @@ Excercises:
 - roadmap
 - UX, UI
 - waterfall vs agile
+- SaSS
+- retention, ecommerce metrics 
