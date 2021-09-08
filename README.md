@@ -9,6 +9,7 @@
   - economics/finance graduate students with interest in tech sector;
   - junior people in tech with a bit of imposter syndrome.
 - A lot of inspiration comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
+- See short and longer course outline below and [workbook](DAY1.md)
 
 ### Course outline (short)
 
