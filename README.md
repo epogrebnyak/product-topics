@@ -12,46 +12,6 @@
 - Economics/finance graduate students with interest in tech sector.
 - Junior people in tech with a bit of imposter syndrome.
 
-### Course outline
-
-#### 1. What is a product and product history
-
-   - in FMCG as consumer brands (1930s) 
-   - in IT (around 2000s)
-
-Takaway:
-
-   - product is customer pain and software engineering does not like this defintion  
-
-#### 2. What is product manager (PM) hired for
-
-   - job descriptions  
-   - performance expectations
-   - PM competences and skills
-
-Takaway:
-   
-   - PM has to do a lot, the pressure comes from organisation's target innovate at shorter cycles
-   - PM is not a project manager
-
-#### 3. Product workflow - linear
-
- - Scoping (define what a new product will be or how to refine existing product)
- - Delivery (make MVP or add new functionality)
- - Evaluation (see it works work, what we learned, decide what to do next)
-
-#### 4. Product workflow - advanced
-
- - Why linear product workflow may fail ("build trap" / "death cylce") 
- - Advanced workflow - how to make product that really works?
-
-#### 5. Product portfolio and product strategy
-
-#### 6. Product teams in organisation
- 
-  - legacy organisations vs product enterprise
-  - lean startups
-
 ### Points of work
 
 1. lecture series developed in this file (EP)
@@ -60,6 +20,66 @@ Takaway:
     - [Presenation draft 2](https://docs.google.com/presentation/d/1PG830YjWHu6UeFsoIvMUV5_ulr_hkfEUkyGqb3b_R-Y/edit#slide=id.ged73adcf4a_2_83)
 3. practical excercies are developed in [workbook](DAY1.md) by Kristof and Julio
 4. larger cases listed [here](CASES.md)
+
+### Course outline
+
+#### 1. What is a product and product history [DONE]
+
+   - in FMCG as consumer brands (1930s) 
+   - in IT (around 2000s)
+
+Takeaways:
+
+   - product is customer pain and software engineering does not like this defintion  
+
+#### 2. What is product manager (PM) hired for 
+
+   - job descriptions  
+   - performance expectations
+   - PM competences and skills
+
+Takeaways:
+   
+   - PM has to do a lot, the pressure comes from organisation's target innovate at shorter cycles
+   - PM is not a project manager
+
+#### 3. Simplified product workflow
+
+ - Scoping (define what a new product will be or how to refine existing product)
+ - Delivery (make MVP or add new functionality)
+ - Evaluation (see it works work, what we learned, decide what to do next)
+
+Takeaways:
+
+- product scoping may miss a product, none of frameworks guarantees a product
+- agile is just an iterative delivery method
+- evaluation steers next steps, better if designed at scoping
+- teams may have different configuation to work on a product
+
+#### 4. Aadvanced product workflow 
+
+ - Why linear product workflow may fail ("build trap" / "death cylce") 
+ - Advanced workflow - how to make product that really works?
+
+Takeaways:
+
+- market matters (if customers do not go away, no need for product at all)
+- product alone does not make $1bn company, some $1bn companies are build around mediocre products
+- many companies could not forecast what their product would be at start
+- some companies failed  
+- companies and teams often mimic product development
+
+#### 5. Product teams in organisation
+ 
+  - legacy organisations vs product enterprise
+  - lean startups
+
+#### 6. Product portfolio and product strategy
+
+  - how comapny chooses between several products
+  - what is product startegy
+
+
 
 ## 1. What is product?
 
@@ -71,7 +91,8 @@ Takaway:
   Excercise:
 
   - What changed? What were the drivers and conditions for products to emerge?
-  - What are product expectiations from the company and user perspective?
+  - What are product expectiations from the company perspective?
+  - What are product expectiations from the perspective?
 
   Reading:
 
@@ -84,32 +105,19 @@ Takaway:
   
   - FMCG
   - physical products
-  - mixed products 
+  - mixed physical-digital products (Uber, AirBnB)
   - failed products
   - internal products
   - unexpected productisation
   - products within big companies
   - company=product
+  - open source products
+  - governement digital services and products
  
 ### 1.3. What is a product? (short video)
 
   - [John Culter vimeo video (2017)](https://vimeo.com/248503272)
 
-### 1.4. How is product created? What is a typical product pipeline?
-
-  - Is there a simple reference workflow for product development (see comments about [Workflow](https://github.com/epogrebnyak/product-topics/blob/main/TOPICS.md#workflow))?
- 
-```
-  Idea -> [Something in between] -> Release -> Product Success
-```
-
-  - Is a linear workflow good? Is anything missing?
-  - What can be modified? Why does this need to be modified?
-
-Reading:
-
-  - [Melissa Perri. Escaping the build trap (first edition - 2018)](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook-dp-B07K3QBWG1/dp/B07K3QBWG1/ref=mt_other?_encoding=UTF8&me=&qid=), [video](https://vimeo.com/224453335)
- 
 ## 2. Product manager (PM) role and skills
 
 ### 2.1. What are the job requirements for product managers?
@@ -157,41 +165,86 @@ Excercises:
 - [From Good to Great PM](https://twitter.com/shreyas/status/1249039638829793280)
 
 
-## 3. Simple view of product workflow
+## 3. Simple view of product workflow [WIP]
 
-- scoping
-- delivery
-- evaluation 
+```
+  Fantasy workflow:
+  
+  Idea -> [Something in between] -> Release -> Product Success
+```
 
-### Coming up with a new product (scoping)
+Companies would have used fantasy workflow above if it worked. It does not work on a systematic basis.
 
-### User story mapping (scoping)
+Depending on competitive pressures and organisational culture companies choose to:
+
+- add more stages to workflow
+- standardize some parts of workflow (scrum, safe, less, etc)
+- add more names to parts of workflow 
+- mimic management does a good job of managing the workflow 
+- go back and forth in the workflow, iterate in this workflow 
+- delegate responsibility to PM
+- isolate parts of workflow
+- allow teams to decide
+- set overall objectives, separate problems and solutions
+- (anything else?)
+
+In this course we learn a three-stage and quite linear workflow 
+before learning more advanced workflows.
+
+The reference product workflow is:
+
+ - Scoping (define what a new product will be or how to refine existing product)
+ - Delivery (make MVP or add new functionality)
+ - Evaluation (see it works work, what we learned, decide what to do next)
+
+Reading [WIP]:
+
+  - [Melissa Perri. Escaping the build trap (first edition - 2018)](https://www.amazon.com/Escaping-Build-Trap-Effective-Management-ebook-dp-B07K3QBWG1/dp/B07K3QBWG1/ref=mt_other?_encoding=UTF8&me=&qid=), [video](https://vimeo.com/224453335)
+ 
+### 3.1 Scoping 
+
+#### New product design 
+
+#### User story mapping
 
 - [video](https://vimeo.com/250045854), 
 - [author](https://twitter.com/jeffpatton)
 - [book](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
 - see also customer journey, event storming
 
-### [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779) (scoping/delivery)
+#### [Prioritisation frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779) (scoping/delivery)
 
 - Often mentioned: RICE
-- Sounds nice: MoSCoW 
+- Nice acronym: MoSCoW 
 
-### Agile methodologies (delivery)
+### 3.2 Delivery 
 
-  - The Project Management Blueprint Part I and II (toptal)
+#### Agile methodologies (delivery)
+
+Before IT:
+
+  - Kanban (TODO-WIP-DONE)
+  - [Lean (Toyota Production System)](https://mag.toyota.co.uk/toyota-production-system-glossary/)
+
+Agile in IT:
+
   - [The Agile Manifesto](https://nitrix-reloaded.com/publicdocs/The_Agile_Manifesto_SDMagazine.pdf) 
   - [SCRUM](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Russian.pdf)
   - Agile at scale: SAFe/LeSS
-  - Kanban 
-  - [State of Agile report](https://stateofagile.com/#ufh-i-661275008-15th-state-of-agile-report/7027494)
-  
-## 5. Product cases
 
-  - How are best product made?
-  - Failed products - what went wrong?
-  
-## 6. Teams and workflow
+Overviews:
+
+  - [State of Agile report](https://stateofagile.com/#ufh-i-661275008-15th-state-of-agile-report/7027494)
+  - [The Project Management Blueprint Part I and II (toptal)](https://www.toptal.com/project-managers/agile/project-management-blueprint-part-1-agile-scrum-kanban-lean)
+
+### 3.3. Evaluation
+
+## 4. Advanced product workflow 
+
+
+## 5. Product teams in an organisation
+ 
+### 5.1. Teams
 
   - Team responsibilities, learning, iterations
   
@@ -199,18 +252,33 @@ Excercises:
 
   - [What might we infer about this team?](https://twitter.com/johncutlefish/status/1433294005589053444?s=20)
   
-  
-## More topics
+### 5.2. Orgs
+ 
+  - legacy organisations vs product enterprise
+  - lean startups
 
-- product vs project management
-- B2C vs B2G vs B2B, competition, user switch rates
-- Facing the user - user stories, story points
-- Waterfall vs iterations
-- Success metrics
-- Use of data
-- Frameworks (eg North Star by Amplitude)
-- Product strategy
-- Products in legacy organisation (no space for products or mimicing products)
+#### 6. Product portfolio and product strategy
+
+  - how comapny chooses between several products
+  - what is product startegy
+
+
+## Topics checklist
+
+Check if a topic found a place in an outline: 
+
+- [x] product vs project management
+- [ ] B2C vs B2G vs B2B, competition, user switch rates
+- [x] Facing the user - user stories, story points
+- [ ] Waterfall vs iterations
+- [ ] Success metrics
+- [ ] Use of data
+- [ ] Frameworks (eg North Star by Amplitude)
+- [x] Product strategy
+- [x] Products in legacy organisation (no space for products or mimicing products)
+- [ ] Product cases:
+  - How are best product made?
+  - Failed products - what went wrong?
 
 ## Glossary
 
