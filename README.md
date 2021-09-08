@@ -14,6 +14,7 @@
 
 ### Course outline
 
+<!--
 1. What is a product and product history
 2. Job market - what is product manager (PM) hired for
 3. Simplified product pipeline 
@@ -23,6 +24,7 @@
 4. Advanced product pipeline 
 5. Product teams in an organisation 
 6. Product portfolio and product strategy
+-->
 
 #### 1. What is a product and product history [DONE]
 
@@ -57,14 +59,21 @@ Takeaways:
  - Delivery (make MVP or add new functionality)
  - Evaluation (see it works work, what we learned, decide what to do next)
 
-Takeaways:
+<details>
+<summary>Takeaways</summary>
 
 - product scoping may miss a product, none of frameworks guarantees a product
 - agile is just an iterative delivery method
 - evaluation steers next steps, better if designed at scoping
 - teams may have different configuation to work on a product
 
+</details>
+
+    
 #### 4. Advanced product workflow 
+
+<details>
+<summary>Details and takeaways</summary>
 
  - Why linear product workflow may fail ("build trap" / "death cylce") 
  - Advanced workflow - how to make product that really works?
@@ -76,17 +85,30 @@ Takeaways:
 - many companies could not forecast what their product would be at start
 - some companies failed  
 - companies and teams often mimic product development
-
-#### 5. Product teams in organisation
  
+</details>
+    
+#### 5. Product teams in organisation
+
+<details>
+<summary>Details</summary>
+
   - legacy organisations vs product enterprise
   - lean startups
 
+</details>
+
+    
 #### 6. Product portfolio and product strategy
+
+<details>
+<summary>Details</summary>
+
 
   - how comapny chooses between several products
   - what is product startegy
 
+</details>
 
 ## 1. What is product?
 
