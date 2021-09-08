@@ -12,15 +12,6 @@
 - Economics/finance graduate students with interest in tech sector.
 - Junior people in tech with a bit of imposter syndrome.
 
-### Points of work
-
-1. lecture series developed in this file (EP)
-2. presentation drafts (EP):
-    - [Presenation draft 1](https://docs.google.com/presentation/d/1P10i8X-A19H9RBKdSx4iaS_wfm2R1X9TDcHB6Tz5GFU/edit#slide=id.ged30c9f7cb_0_57)
-    - [Presenation draft 2](https://docs.google.com/presentation/d/1PG830YjWHu6UeFsoIvMUV5_ulr_hkfEUkyGqb3b_R-Y/edit#slide=id.ged73adcf4a_2_83)
-3. practical excercies are developed in [workbook](DAY1.md) by Kristof and Julio
-4. larger cases listed [here](CASES.md)
-
 ### Course outline
 
 #### 1. What is a product and product history [DONE]
@@ -56,7 +47,7 @@ Takeaways:
 - evaluation steers next steps, better if designed at scoping
 - teams may have different configuation to work on a product
 
-#### 4. Aadvanced product workflow 
+#### 4. Advanced product workflow 
 
  - Why linear product workflow may fail ("build trap" / "death cylce") 
  - Advanced workflow - how to make product that really works?
@@ -78,7 +69,6 @@ Takeaways:
 
   - how comapny chooses between several products
   - what is product startegy
-
 
 
 ## 1. What is product?
