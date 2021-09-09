@@ -15,7 +15,7 @@
   - economics/finance graduate students with interest in tech sector;
   - junior people in tech with a bit of imposter syndrome.
 - A lot of inspiration comes from reading [John Cutler](https://twitter.com/johncutlefish) on Twitter.
-- Acting product managers contributed to concept of this course and [excercise workbook](DAY1.md).
+- Acting product managers contributed to [excercise workbook](DAY1.md).
 - See short and longer course outline is below.
 
 ### Self-study 
