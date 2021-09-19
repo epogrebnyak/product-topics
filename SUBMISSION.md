@@ -1,5 +1,25 @@
 Julio Oliveira
 --------------
+[Introduction]
+
+Ecommerce-related products often have a common set of metrics that need to be tracked to get a clear picture of the results the product generates in the business.
+
+Some important terms and metrics are:
+B2C: refers to the process of selling products and services directly between a company and consumers who are the end users of its products or services. Most companies that sell directly to consumers can be called B2C companies;
+Traffic volume: is the number of users or sessions on your website in a period of time;
+Conversion: is the number of final actions of the product divided by the number of users of the product during a period. It's a good metric to calculate sales rate, sign-ups, etc;
+Click through rate: is the number of clicks on an action button (Send, buy, etc.) divided by the number of views of the button or views on page that contains the button;
+Customer Acquisition Cost: This is the average cost of acquiring a customer, including everything from marketing and sales costs to the cost of paying your staff and hosting your website.
+
+In addition to these, many other metrics can help you understand your product's performance, find out more in the references below:
+https://www.bolt.com/resources/ecommerce-metrics/
+https://www.searchenginejournal.com/ecommerce-metrics/323811
+
+Also within the context of e-commerce, it is a common practice for companies to offer free or low-cost services to attract potential customers of the final product. For example, apps with a trial version or trial period, explanatory content on a topic (content marketing), or complementary services to the main product.
+
+For our case study, we are going to analyze a company that offers loans from several commercial partners. And to attract customers (B2C), it uses, among several tools, a loan simulator.
+With a simulator, the user can have a forecast of fees and installments, based on the loan value and the payment time.
+The simulator is interesting for this company, as it manages to get the public's attention in a cheap and assertive way, since users are potential customers (people who need loans) and the simulator can be found organically.
 
 [Problem]
 Suppose you are PM of a squad whose product is a lead generator (possible customers) for personal loans.
@@ -26,9 +46,12 @@ Details:
 5. Suppose you decided to optimize recommendation traffic and chose two hypotheses to test:
 - Create buttons to share the simulator on social networks (facebook, twitter, whatsapp, etc);
 - Allow clients (sales convertion) to post that they used the simulator link on social media;
-Before prototyping and implementing it is important to validate that the hypotheses make sense, that is, to understand the associated risks. The risks are usually 3, business risk (will solve the problem / generate more sales), usability (will the user use?) and technology (is it possible to create this solution in a timely manner?
+Before prototyping and implementing it is important to validate that the hypotheses make sense, that is, to understand the associated risks. 
+The risks are usually 3, business risk (will solve the problem / generate more sales), usability (will the user use?) and technology (is it possible to create this solution in a timely manner?). 
 As we believe that the increase in recommendations generates sales results, let's assume that the business risk is resolved. So let's focus on usability risk. An opportunity to address these risks is to talk to users to understand how they address this issue (loans) and ask questions that help reduce the risk of creating something they would not use (Hint: be careful not to ask something in a way that will bias the user to answer what you would like them to answer, not the truth).
 Therefore, formulate some questions that you would ask potential users of this simulator to reduce the risk of constructing these two hypotheses.
+6. The product presented in this case study is only a loan simulator. Apparently its operation is simple: based on the values provided by the users, the system makes some calculations and displays the value of fees. Also, it shows some business partners right below the simulator.
+Suggest some ideas about how you would try to improve this product (loan simulator) so that it could bring even better business results.
 
 [Answers]
 1. It is currently Organic, as the sales volume is higher.
@@ -49,6 +72,7 @@ Therefore, formulate some questions that you would ask potential users of this s
 - What factors tend to make you more confident when you are going to purchase a product or service for the first time?
 - When you use a product or service that exceeds your expectations, do you take any special action on behalf of the company that made the product or service?
 - Would you feel comfortable in publicizing on social networks that you intend to acquire or that you have acquired a loan? (I would leave it last, as it will skew, although it seems to be very assertive)
+6. Today the simulator is simple and straightforward in terms of fees, but it could be more interactive and help the user more in the loan acquisition process, taking into account the context of the loan (the user will buy a house, a car, pay some debt, etc) as this can influence rates and the most suitable trading partner so that the user does not need to consult with the trading partners one by one. An example of a product that does this is LendingTree https://www.lendingtree.com/.
 
 Kristof Pongracz
 ----------------
